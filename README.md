@@ -10,14 +10,14 @@ gabriel-dsdc/gabriel-dsdc is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![Header](https://raw.githubusercontent.com/galacstec/galacstec/main/resources/img/header_techs.png)
+![Header](https://raw.githubusercontent.com/gabriel-dsdc/gabriel-dsdc/main/resources/img/header_techs.png)
 
 <table align="right">
  <tr><td><b><img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/png100px/us.png" height="13"> English</b></td></tr>
  <tr><td><a href="resources/locales/README_pt-BR.md"><img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/png100px/br.png" height="17"> Português</a></td></tr>
 </table>
 
-<img align="left" src="https://raw.githubusercontent.com/galacstec/galacstec/main/resources/img/octocat_dancing.gif">
+<img align="left" src="https://raw.githubusercontent.com/gabriel-dsdc/gabriel-dsdc/main/resources/img/octocat_dancing.gif">
 
 ### About Me
 💬 I've always liked technology in general, whether interacting, researching or developing, currently what I like most is to develop no matter if it's front-end, back-end, mobile or web.  
